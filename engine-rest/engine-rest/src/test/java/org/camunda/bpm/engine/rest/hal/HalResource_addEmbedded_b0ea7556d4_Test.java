@@ -1,0 +1,10 @@
+<project>
+  ...
+  <repositories>
+    <repository>
+      <id>repo-id</id>
+      <url>repo-url</url>
+    </repository>
+  </repositories>
+  ...
+</project>
